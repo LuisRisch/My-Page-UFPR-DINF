@@ -1,0 +1,25 @@
+#contacts-container{
+    display: flex; 
+    flex-direction: row;  
+    width: 30%;
+    background-color: white;
+    padding: 0.5rem 1rem; 
+    border-radius: 1em;
+    box-shadow: 1px 5px 1px #9E9E9E; 
+    border: 1px solid #9E9E9E;
+} 
+#informations-container{
+    display: flex; 
+    flex-direction: column; 
+    margin: 0em 0.8em;
+    justify-content: space-around; 
+    font-size: 0.9em;
+} 
+#informations-container h4{ 
+    margin: 0; 
+    padding: 0;
+} 
+#informations-container p{ 
+    margin: 0; 
+    padding: 0;
+} 

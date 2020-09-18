@@ -1,0 +1,12 @@
+
+#home-body-content{ 
+    background-color:#FFE4B5;
+    margin: 0 auto;
+    padding : 10px 25px; 
+    display: flex; 
+    flex-direction: column;     
+    align-self: center;   
+    height: 100vh;
+} 
+
+

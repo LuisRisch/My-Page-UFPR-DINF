@@ -1,0 +1,10 @@
+.content-container{     
+    margin: 0 auto; 
+    padding: 10px 25px; 
+    height: 100vh; 
+    justify-content: space-between; 
+    background-color:#FFE4B5;  
+    align-items: center;
+    display: flex; 
+    flex-direction: column;
+} 

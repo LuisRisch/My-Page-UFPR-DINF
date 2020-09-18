@@ -1,0 +1,15 @@
+.navigation li{
+    display: inline; 
+    margin: 0.5em;
+} 
+.navigation li:hover{
+    color: #8B008B; 
+}
+.navigation{
+    float : "left" ; 
+    color: #F5FFFA;
+    list-style-type: none;
+}
+.navigation #Im-Here{
+    color: #9400D3;
+}
